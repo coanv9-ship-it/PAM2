@@ -1,21 +1,17 @@
 import React from 'react';
-import { View, Text } from 'react-native';
+import { View, Text, Image } from 'react-native';
 import estilo from './estilo';
 
 export default function ItemCardapio(props) {
   return (
-    <View style={estilo.boxItem}>
-      <Text style={estilo.nomeItem}>
-        {props.nome}
-      </Text>
+    <View style={estilo.card}>
+      <Image source={{ uri: props.imagem }} style={estilo.imagem} />
 
-      <Text style={estilo.descricaoItem}>
-        {props.descricao}
-      </Text>
-
-      <Text style={estilo.precoItem}>
-        R$ {props.preco}
-      </Text>
+      <View style={estilo.info}>
+        <Text style={estilo.nome}>{props.nome}</Text>
+        <Text style={estilo.descricao}>{props.descricao}</Text>
+        <Text style={estilo.preco}>R$ {props.preco}</Text>
+      </View>
     </View>
   )
 }

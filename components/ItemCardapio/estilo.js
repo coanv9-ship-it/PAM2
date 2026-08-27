@@ -1,28 +1,42 @@
 import { StyleSheet } from 'react-native';
 
 const estilo = StyleSheet.create({
-  boxItem: {
-    padding: 10,
-    borderWidth: 1,
-    borderColor: '#000',
-    borderRadius: 5,
-    marginBottom: 10
+  card: {
+    flexDirection: 'row',
+    backgroundColor: '#fff',
+    borderRadius: 12,
+    marginBottom: 14,
+    overflow: 'hidden',
+    elevation: 3,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.12,
+    shadowRadius: 4,
   },
-  nomeItem: {
-    fontSize: 18,
-    color: '#204550',
-    fontWeight: '600',
-    marginBottom: 5
+  imagem: {
+    width: 100,
+    height: 100,
   },
-  descricaoItem: {
-    fontSize: 14,
-    color: '#555',
-    marginBottom: 5
+  info: {
+    flex: 1,
+    padding: 12,
+    justifyContent: 'center',
   },
-  precoItem: {
+  nome: {
     fontSize: 16,
-    color: '#2e7d32',
-    fontWeight: '700'
+    fontWeight: '700',
+    color: '#2b2b2b',
+    marginBottom: 4,
+  },
+  descricao: {
+    fontSize: 13,
+    color: '#777',
+    marginBottom: 8,
+  },
+  preco: {
+    fontSize: 15,
+    fontWeight: '700',
+    color: '#c0392b',
   }
 });
 
