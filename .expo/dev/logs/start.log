@@ -1,0 +1,396 @@
+{"_e":"root:init","_t":1787093024829,"format":"v0-jsonl","version":"57.0.13"}
+{"_e":"env:mode","_t":1787093024830,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1787093024832,"mode":"development","files":[],"env":{}}
+{"_e":"root:init","_t":1787093064998,"format":"v0-jsonl","version":"57.0.13"}
+{"_e":"env:mode","_t":1787093064999,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1787093065001,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1787093065174,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1787093065461,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1787093065722,"plugins":[]}
+{"_e":"metro:instantiate","_t":1787093070172,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:server_log","_t":1787093071838,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM2/aula2/aula2_3b/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"metro:bundling:started","_t":1787093072408,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787093072408,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787093072412,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787093072653,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1787093072759,"id":"1","progress":0.1111111111111111,"total":15,"current":5}
+{"_e":"metro:bundling:progress","_t":1787093072860,"id":"1","progress":0.1111111111111111,"total":40,"current":9}
+{"_e":"metro:bundling:progress","_t":1787093073007,"id":"1","progress":0.1111111111111111,"total":42,"current":11}
+{"_e":"metro:bundling:progress","_t":1787093073107,"id":"1","progress":0.1686862244897959,"total":56,"current":23}
+{"_e":"metro:bundling:progress","_t":1787093073212,"id":"1","progress":0.3106691749529696,"total":61,"current":34}
+{"_e":"metro:bundling:progress","_t":1787093073475,"id":"1","progress":0.4444444444444444,"total":63,"current":42}
+{"_e":"metro:bundling:progress","_t":1787093073582,"id":"1","progress":0.4444444444444444,"total":81,"current":48}
+{"_e":"metro:bundling:progress","_t":1787093073687,"id":"1","progress":0.4648760330578512,"total":88,"current":60}
+{"_e":"metro:bundling:progress","_t":1787093073808,"id":"1","progress":0.5216049382716049,"total":90,"current":65}
+{"_e":"metro:bundling:progress","_t":1787093073913,"id":"1","progress":0.5216049382716049,"total":109,"current":75}
+{"_e":"metro:bundling:progress","_t":1787093074023,"id":"1","progress":0.5625,"total":120,"current":90}
+{"_e":"metro:bundling:progress","_t":1787093074124,"id":"1","progress":0.5954491908983818,"total":127,"current":98}
+{"_e":"metro:bundling:progress","_t":1787093074229,"id":"1","progress":0.6165157750342936,"total":135,"current":106}
+{"_e":"metro:bundling:progress","_t":1787093074335,"id":"1","progress":0.6694214876033059,"total":143,"current":117}
+{"_e":"metro:bundling:progress","_t":1787093074437,"id":"1","progress":0.6694214876033059,"total":152,"current":123}
+{"_e":"metro:bundling:progress","_t":1787093074551,"id":"1","progress":0.7125990892224657,"total":154,"current":130}
+{"_e":"metro:bundling:progress","_t":1787093074652,"id":"1","progress":0.766984298445276,"total":161,"current":141}
+{"_e":"metro:bundling:progress","_t":1787093074752,"id":"1","progress":0.766984298445276,"total":178,"current":150}
+{"_e":"metro:bundling:progress","_t":1787093074918,"id":"1","progress":0.766984298445276,"total":190,"current":162}
+{"_e":"metro:bundling:progress","_t":1787093075034,"id":"1","progress":0.766984298445276,"total":191,"current":166}
+{"_e":"metro:bundling:progress","_t":1787093075342,"id":"1","progress":0.8025173611111112,"total":192,"current":172}
+{"_e":"metro:bundling:progress","_t":1787093075442,"id":"1","progress":0.8324210861940695,"total":194,"current":177}
+{"_e":"metro:bundling:progress","_t":1787093077654,"id":"1","progress":0.8418535444786905,"total":194,"current":178}
+{"_e":"metro:bundling:progress","_t":1787093077816,"id":"1","progress":0.8717461474385673,"total":196,"current":183}
+{"_e":"metro:bundling:progress","_t":1787093077916,"id":"1","progress":0.9025,"total":200,"current":190}
+{"_e":"metro:bundling:progress","_t":1787093078098,"id":"1","progress":0.912025,"total":200,"current":191}
+{"_e":"metro:bundling:progress","_t":1787093078199,"id":"1","progress":0.912025,"total":216,"current":197}
+{"_e":"metro:bundling:progress","_t":1787093078309,"id":"1","progress":0.912025,"total":216,"current":198}
+{"_e":"metro:bundling:progress","_t":1787093078426,"id":"1","progress":0.912025,"total":217,"current":200}
+{"_e":"metro:bundling:progress","_t":1787093078529,"id":"1","progress":0.912025,"total":217,"current":206}
+{"_e":"metro:bundling:progress","_t":1787093078776,"id":"1","progress":0.9726664422186684,"total":218,"current":215}
+{"_e":"metro:bundling:progress","_t":1787093078880,"id":"1","progress":0.999,"total":221,"current":221}
+{"_e":"metro:bundling:done","_t":1787093079067,"id":"1","total":221,"ms":6658.949024}
+{"_e":"metro:client_log","_t":1787093085129,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1787093085130,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1787093503962,"format":"v0-jsonl","version":"57.0.13"}
+{"_e":"env:mode","_t":1787093503962,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1787093503964,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1787093506595,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1787093507177,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1787093507357,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM2/aula2/aula2_3b/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1787093507467,"plugins":[]}
+{"_e":"metro:instantiate","_t":1787093510268,"atlas":false,"workers":1,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1787093511701,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787093511703,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787093511710,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787093511810,"id":"1","progress":0.6214502637327509,"total":137,"current":108}
+{"_e":"metro:bundling:progress","_t":1787093511926,"id":"1","progress":0.8573388203017833,"total":216,"current":200}
+{"_e":"metro:bundling:done","_t":1787093511963,"id":"1","total":216,"ms":260.768763}
+{"_e":"metro:client_log","_t":1787093514044,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1787093514044,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1787093746690,"format":"v0-jsonl","version":"57.0.13"}
+{"_e":"env:mode","_t":1787093746691,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1787093746693,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1787093749007,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1787093749264,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1787093749365,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM2/aula2/aula2_3b/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1787093749468,"plugins":[]}
+{"_e":"metro:instantiate","_t":1787093752165,"atlas":false,"workers":1,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1787093752787,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787093752788,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787093752806,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787093752906,"id":"1","progress":0.25636917160711425,"total":79,"current":40}
+{"_e":"metro:bundling:progress","_t":1787093753044,"id":"1","progress":0.9713618713017752,"total":208,"current":205}
+{"_e":"metro:bundling:done","_t":1787093753075,"id":"1","total":208,"ms":287.759854}
+{"_e":"metro:client_log","_t":1787093754043,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1787093754043,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:failed","_t":1787093813338,"id":null,"message":"Unable to resolve \"./components/ListaCardapio\" from \"App.js\"\n  1 | import React from 'react';\n> 2 | import ListaCardapio from './components/ListaCardapio';\n    |                            ^\n  3 | import ListaCardapioAuto from './components/ListaCardapioAuto';\n  4 |\n  5 | export default function App() {","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./components/ListaCardapio\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index\"\u001b[39m\n","filename":null,"targetModuleName":"./components/ListaCardapio","originModulePath":"App.js"}
+{"_e":"metro:client_log","_t":1787093813481,"level":"error","data":["[UnableToResolveError: Unable to resolve module ./components/ListaCardapio from /workspaces/PAM2/aula2/aula2_3b/App.js: \n\nNone of these files exist:\n  * components/ListaCardapio(.web.ts|.ts|.web.tsx|.tsx|.web.mjs|.mjs|.web.js|.js|.web.jsx|.jsx|.web.json|.json|.web.cjs|.cjs|.web.scss|.scss|.web.sass|.sass|.web.css|.css)\n  * components/ListaCardapio\n  1 | import React from 'react';\n> 2 | import ListaCardapio from './components/ListaCardapio';\n    |                            ^\n  3 | import ListaCardapioAuto from './components/ListaCardapioAuto';\n  4 |\n  5 | export default function App() {]"]}
+{"_e":"root:init","_t":1787093852246,"format":"v0-jsonl","version":"57.0.13"}
+{"_e":"env:mode","_t":1787093852246,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1787093852248,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1787093853117,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1787093853361,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1787093853447,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM2/aula2/aula2_3b/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1787093853566,"plugins":[]}
+{"_e":"metro:instantiate","_t":1787093856481,"atlas":false,"workers":1,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1787093857074,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787093857075,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787093857082,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787093857184,"id":"1","progress":0.6345877621373168,"total":118,"current":94}
+{"_e":"metro:bundling:done","_t":1787093857303,"id":"1","total":118,"ms":228.983138}
+{"_e":"metro:client_log","_t":1787093858539,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1787093858541,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1787220815432,"format":"v0-jsonl","version":"57.0.13"}
+{"_e":"env:mode","_t":1787220815433,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1787220815436,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1787220817758,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1787220818642,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1787220820066,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM2/aula2/aula2_3b/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1787220820415,"plugins":[]}
+{"_e":"metro:instantiate","_t":1787220823096,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1787220833157,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787220833158,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787220833165,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787220833813,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1787220833941,"id":"1","progress":0.09,"total":6,"current":3}
+{"_e":"metro:bundling:progress","_t":1787220834055,"id":"1","progress":0.2287334593572779,"total":23,"current":11}
+{"_e":"metro:bundling:progress","_t":1787220834156,"id":"1","progress":0.2287334593572779,"total":46,"current":12}
+{"_e":"metro:bundling:progress","_t":1787220834399,"id":"1","progress":0.2287334593572779,"total":46,"current":13}
+{"_e":"metro:bundling:progress","_t":1787220834509,"id":"1","progress":0.2287334593572779,"total":51,"current":18}
+{"_e":"metro:bundling:progress","_t":1787220834609,"id":"1","progress":0.2287334593572779,"total":64,"current":20}
+{"_e":"metro:bundling:progress","_t":1787220834657,"id":"1","progress":0.2287334593572779,"total":64,"current":21}
+{"_e":"metro:bundling:progress","_t":1787220834775,"id":"1","progress":0.24354865913307472,"total":77,"current":38}
+{"_e":"metro:bundling:progress","_t":1787220834878,"id":"1","progress":0.3691716071142445,"total":79,"current":48}
+{"_e":"metro:bundling:progress","_t":1787220834986,"id":"1","progress":0.3765495867768595,"total":88,"current":54}
+{"_e":"metro:bundling:progress","_t":1787220835094,"id":"1","progress":0.37869822485207105,"total":104,"current":64}
+{"_e":"metro:bundling:progress","_t":1787220835195,"id":"1","progress":0.4990320680077434,"total":109,"current":77}
+{"_e":"metro:bundling:progress","_t":1787220835307,"id":"1","progress":0.5468540357319399,"total":119,"current":88}
+{"_e":"metro:bundling:progress","_t":1787220835411,"id":"1","progress":0.5595511191022382,"total":127,"current":95}
+{"_e":"metro:bundling:progress","_t":1787220835512,"id":"1","progress":0.6173469387755102,"total":140,"current":110}
+{"_e":"metro:bundling:progress","_t":1787220835611,"id":"1","progress":0.709748545693376,"total":146,"current":123}
+{"_e":"metro:bundling:progress","_t":1787220835717,"id":"1","progress":0.7825443786982248,"total":156,"current":138}
+{"_e":"metro:bundling:progress","_t":1787220835817,"id":"1","progress":0.7825443786982248,"total":176,"current":155}
+{"_e":"metro:bundling:progress","_t":1787220835952,"id":"1","progress":0.7825443786982248,"total":190,"current":162}
+{"_e":"metro:bundling:progress","_t":1787220836081,"id":"1","progress":0.7825443786982248,"total":190,"current":163}
+{"_e":"metro:bundling:progress","_t":1787220836186,"id":"1","progress":0.8711111111111112,"total":195,"current":182}
+{"_e":"metro:bundling:progress","_t":1787220837887,"id":"1","progress":0.9208244056728905,"total":198,"current":190}
+{"_e":"metro:bundling:progress","_t":1787220837987,"id":"1","progress":0.9208244056728905,"total":212,"current":194}
+{"_e":"metro:bundling:progress","_t":1787220838088,"id":"1","progress":0.9208244056728905,"total":218,"current":208}
+{"_e":"metro:bundling:progress","_t":1787220838200,"id":"1","progress":0.999,"total":221,"current":221}
+{"_e":"metro:bundling:done","_t":1787220838416,"id":"1","total":221,"ms":5258.929919}
+{"_e":"metro:client_log","_t":1787220841039,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1787220841040,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1787220868374,"id":"4","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787220868374,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1787220868388,"id":"4","total":1,"ms":13.74546}
+{"_e":"metro:bundling:started","_t":1787220883408,"id":"5","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787220883408,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1787220883419,"id":"5","total":1,"ms":10.890939}
+{"_e":"metro:client_log","_t":1787220885105,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1787220885106,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1787220886201,"id":"8","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787220886202,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1787220886214,"id":"8","total":1,"ms":12.459363}
+{"_e":"metro:client_log","_t":1787220887333,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1787220887333,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1787220939436,"format":"v0-jsonl","version":"57.0.13"}
+{"_e":"env:mode","_t":1787220939436,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1787220939438,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1787220941682,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1787220941914,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1787220941992,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM2/aula2/aula2_3b/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1787220942090,"plugins":[]}
+{"_e":"metro:instantiate","_t":1787220944901,"atlas":false,"workers":1,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1787220950276,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787220950276,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787220950283,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787220950475,"id":"1","progress":0.09,"total":9,"current":3}
+{"_e":"metro:bundling:progress","_t":1787220950596,"id":"1","progress":0.09,"total":44,"current":12}
+{"_e":"metro:bundling:progress","_t":1787220950787,"id":"1","progress":0.3810394756896814,"total":81,"current":50}
+{"_e":"metro:bundling:progress","_t":1787220950893,"id":"1","progress":0.5941840277777778,"total":144,"current":111}
+{"_e":"metro:bundling:progress","_t":1787220951006,"id":"1","progress":0.9425959091337544,"total":206,"current":200}
+{"_e":"metro:bundling:done","_t":1787220951091,"id":"1","total":206,"ms":815.099027}
+{"_e":"metro:client_log","_t":1787220954245,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1787220954246,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1787221042831,"format":"v0-jsonl","version":"57.0.13"}
+{"_e":"env:mode","_t":1787221042832,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1787221042835,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1787221045866,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1787221046101,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1787221046178,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM2/aula2/aula2_3b/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1787221046272,"plugins":[]}
+{"_e":"metro:instantiate","_t":1787221048793,"atlas":false,"workers":1,"host":"::","port":8083}
+{"_e":"metro:bundling:started","_t":1787221053759,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787221053761,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787221053767,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787221053946,"id":"1","progress":0.09,"total":9,"current":3}
+{"_e":"metro:bundling:progress","_t":1787221054073,"id":"1","progress":0.09,"total":49,"current":13}
+{"_e":"metro:bundling:progress","_t":1787221054173,"id":"1","progress":0.5102040816326531,"total":105,"current":75}
+{"_e":"metro:bundling:progress","_t":1787221054291,"id":"1","progress":0.9231064975009612,"total":204,"current":196}
+{"_e":"metro:bundling:done","_t":1787221054327,"id":"1","total":204,"ms":567.266092}
+{"_e":"metro:client_log","_t":1787221055919,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1787221055919,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1787313571229,"format":"v0-jsonl","version":"57.0.13"}
+{"_e":"env:mode","_t":1787313571231,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1787313571233,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1787313572354,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1787313573136,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1787313574376,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM2/aula2/aula2_3b/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1787313574560,"plugins":[]}
+{"_e":"metro:instantiate","_t":1787313577574,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1787313579266,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787313579266,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787313579276,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787313579758,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1787313579861,"id":"1","progress":0.1111111111111111,"total":12,"current":4}
+{"_e":"metro:bundling:progress","_t":1787313579974,"id":"1","progress":0.1111111111111111,"total":46,"current":12}
+{"_e":"metro:bundling:progress","_t":1787313580246,"id":"1","progress":0.1111111111111111,"total":46,"current":14}
+{"_e":"metro:bundling:progress","_t":1787313580363,"id":"1","progress":0.1111111111111111,"total":62,"current":19}
+{"_e":"metro:bundling:progress","_t":1787313580463,"id":"1","progress":0.19497385731151964,"total":77,"current":34}
+{"_e":"metro:bundling:progress","_t":1787313580565,"id":"1","progress":0.32653061224489793,"total":77,"current":44}
+{"_e":"metro:bundling:progress","_t":1787313580676,"id":"1","progress":0.3847139881429258,"total":79,"current":49}
+{"_e":"metro:bundling:progress","_t":1787313580782,"id":"1","progress":0.3847139881429258,"total":86,"current":51}
+{"_e":"metro:bundling:progress","_t":1787313580913,"id":"1","progress":0.40742417383431423,"total":94,"current":60}
+{"_e":"metro:bundling:progress","_t":1787313581013,"id":"1","progress":0.4150332840236687,"total":104,"current":67}
+{"_e":"metro:bundling:progress","_t":1787313581114,"id":"1","progress":0.4568758573388203,"total":108,"current":73}
+{"_e":"metro:bundling:progress","_t":1787313581214,"id":"1","progress":0.5289256198347108,"total":110,"current":80}
+{"_e":"metro:bundling:progress","_t":1787313581314,"id":"1","progress":0.5657096939148221,"total":117,"current":88}
+{"_e":"metro:bundling:progress","_t":1787313581434,"id":"1","progress":0.589824,"total":125,"current":96}
+{"_e":"metro:bundling:progress","_t":1787313581536,"id":"1","progress":0.6197374377546402,"total":141,"current":111}
+{"_e":"metro:bundling:progress","_t":1787313581655,"id":"1","progress":0.7195719381688467,"total":145,"current":123}
+{"_e":"metro:bundling:progress","_t":1787313581757,"id":"1","progress":0.7939266929651546,"total":156,"current":139}
+{"_e":"metro:bundling:progress","_t":1787313581859,"id":"1","progress":0.7939266929651546,"total":175,"current":151}
+{"_e":"metro:bundling:progress","_t":1787313581962,"id":"1","progress":0.7939266929651546,"total":190,"current":161}
+{"_e":"metro:bundling:progress","_t":1787313582072,"id":"1","progress":0.7939266929651546,"total":190,"current":164}
+{"_e":"metro:bundling:progress","_t":1787313582192,"id":"1","progress":0.8324210861940695,"total":194,"current":177}
+{"_e":"metro:bundling:progress","_t":1787313583919,"id":"1","progress":0.9208244056728905,"total":198,"current":190}
+{"_e":"metro:bundling:progress","_t":1787313584019,"id":"1","progress":0.9208244056728905,"total":218,"current":207}
+{"_e":"metro:bundling:progress","_t":1787313584176,"id":"1","progress":0.9729132231404958,"total":220,"current":217}
+{"_e":"metro:bundling:progress","_t":1787313584282,"id":"1","progress":0.999,"total":221,"current":221}
+{"_e":"metro:bundling:done","_t":1787313584517,"id":"1","total":221,"ms":5251.686924}
+{"_e":"metro:client_log","_t":1787313589701,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1787313589702,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1787313610709,"id":"4","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787313610710,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1787313610723,"id":"4","total":1,"ms":13.424741}
+{"_e":"metro:client_log","_t":1787313614516,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1787313614517,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1787313621994,"id":"7","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787313621994,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1787313622007,"id":"7","total":1,"ms":12.780277}
+{"_e":"root:init","_t":1787313690591,"format":"v0-jsonl","version":"57.0.13"}
+{"_e":"env:mode","_t":1787313690592,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1787313690594,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1787313693736,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1787313694008,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1787313694083,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM2/aula2/aula2_3b/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1787313694180,"plugins":[]}
+{"_e":"metro:instantiate","_t":1787313696871,"atlas":false,"workers":1,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1787313698308,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787313698309,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787313698318,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787313698499,"id":"1","progress":0.09,"total":9,"current":3}
+{"_e":"metro:bundling:progress","_t":1787313698599,"id":"1","progress":0.3929605702829138,"total":67,"current":42}
+{"_e":"metro:bundling:progress","_t":1787313698757,"id":"1","progress":0.3929605702829138,"total":81,"current":50}
+{"_e":"metro:bundling:progress","_t":1787313698871,"id":"1","progress":0.5941840277777778,"total":144,"current":111}
+{"_e":"metro:bundling:progress","_t":1787313698973,"id":"1","progress":0.9328732897085068,"total":205,"current":198}
+{"_e":"metro:bundling:done","_t":1787313699021,"id":"1","total":205,"ms":712.261879}
+{"_e":"metro:client_log","_t":1787313700758,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1787313700759,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1787313751051,"format":"v0-jsonl","version":"57.0.13"}
+{"_e":"env:mode","_t":1787313751052,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1787313751054,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1787313753211,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1787313753459,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1787313753550,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM2/aula2/aula2_3b/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1787313753656,"plugins":[]}
+{"_e":"metro:instantiate","_t":1787313756375,"atlas":false,"workers":1,"host":"::","port":8083}
+{"_e":"metro:bundling:started","_t":1787313757889,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787313757890,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787313757897,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787313758101,"id":"1","progress":0.09,"total":9,"current":3}
+{"_e":"metro:bundling:progress","_t":1787313758208,"id":"1","progress":0.09,"total":49,"current":13}
+{"_e":"metro:bundling:progress","_t":1787313758310,"id":"1","progress":0.5314001222814219,"total":107,"current":78}
+{"_e":"metro:bundling:progress","_t":1787313758434,"id":"1","progress":0.8494552867973412,"total":217,"current":200}
+{"_e":"metro:bundling:done","_t":1787313758474,"id":"1","total":217,"ms":584.127969}
+{"_e":"metro:client_log","_t":1787313760431,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1787313760432,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1787313888670,"id":"3","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787313888670,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1787313888683,"id":"3","total":1,"ms":12.934857}
+{"_e":"root:init","_t":1787314325845,"format":"v0-jsonl","version":"57.0.13"}
+{"_e":"env:mode","_t":1787314325845,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1787314325849,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1787314326083,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1787314326622,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1787314326746,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM2/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1787314326854,"plugins":[]}
+{"_e":"metro:instantiate","_t":1787314329608,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"root:init","_t":1787869059506,"format":"v0-jsonl","version":"57.0.13"}
+{"_e":"env:mode","_t":1787869059507,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1787869059510,"mode":"development","files":[],"env":{}}
+{"_e":"root:init","_t":1787869103825,"format":"v0-jsonl","version":"57.0.13"}
+{"_e":"env:mode","_t":1787869103826,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1787869103828,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1787869104351,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1787869105278,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1787869106760,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM2/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1787869106840,"plugins":[]}
+{"_e":"metro:instantiate","_t":1787869109696,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1787869112614,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787869112615,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787869112620,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787869113197,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1787869113320,"id":"1","progress":0.17361111111111113,"total":12,"current":5}
+{"_e":"metro:bundling:progress","_t":1787869113428,"id":"1","progress":0.17361111111111113,"total":38,"current":10}
+{"_e":"metro:bundling:progress","_t":1787869113529,"id":"1","progress":0.2116,"total":50,"current":23}
+{"_e":"metro:bundling:progress","_t":1787869113632,"id":"1","progress":0.33851239669421485,"total":55,"current":32}
+{"_e":"metro:bundling:progress","_t":1787869113789,"id":"1","progress":0.4049586776859504,"total":55,"current":35}
+{"_e":"metro:bundling:progress","_t":1787869113889,"id":"1","progress":0.7511111111111112,"total":60,"current":52}
+{"_e":"metro:bundling:progress","_t":1787869113992,"id":"1","progress":0.7511111111111112,"total":71,"current":60}
+{"_e":"metro:bundling:progress","_t":1787869114091,"id":"1","progress":0.7605462412114656,"total":86,"current":75}
+{"_e":"metro:bundling:progress","_t":1787869114193,"id":"1","progress":0.7605462412114656,"total":101,"current":85}
+{"_e":"metro:bundling:progress","_t":1787869114298,"id":"1","progress":0.7605462412114656,"total":117,"current":97}
+{"_e":"metro:bundling:progress","_t":1787869114400,"id":"1","progress":0.7605462412114656,"total":126,"current":100}
+{"_e":"metro:bundling:progress","_t":1787869114503,"id":"1","progress":0.7605462412114656,"total":132,"current":111}
+{"_e":"metro:bundling:progress","_t":1787869114609,"id":"1","progress":0.7605462412114656,"total":138,"current":119}
+{"_e":"metro:bundling:progress","_t":1787869116363,"id":"1","progress":0.7998908946637573,"total":142,"current":127}
+{"_e":"metro:bundling:progress","_t":1787869116469,"id":"1","progress":0.7998908946637573,"total":155,"current":138}
+{"_e":"metro:bundling:progress","_t":1787869116576,"id":"1","progress":0.8053911900065747,"total":156,"current":140}
+{"_e":"metro:bundling:progress","_t":1787869116680,"id":"1","progress":0.9059370010161125,"total":166,"current":158}
+{"_e":"metro:bundling:progress","_t":1787869116781,"id":"1","progress":0.999,"total":180,"current":180}
+{"_e":"metro:bundling:failed","_t":1787869116786,"id":"1","message":"Unable to resolve \"./estilo\" from \"components/ListaCardapio/index.js\"\n  3 | import Header from '../Header';\n  4 | import CategoriaCardapio from '../CategoriaCardapio';\n> 5 | import estilo from './estilo';\n    |                     ^\n  6 |\n  7 | export default function ListaCardapio() {\n  8 |   const cardapio = [","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mcomponents/ListaCardapio/index.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./estilo\"\u001b[39m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./components/ListaCardapio\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index\"\u001b[39m\n","filename":null,"targetModuleName":"./estilo","originModulePath":"components/ListaCardapio/index.js"}
+{"_e":"metro:bundling:started","_t":1787869215010,"id":"3","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787869215011,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787869215012,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787869215115,"id":"3","progress":0.31151974040021635,"total":86,"current":48}
+{"_e":"metro:bundling:progress","_t":1787869215221,"id":"3","progress":0.4792899408284023,"total":117,"current":81}
+{"_e":"metro:bundling:progress","_t":1787869215328,"id":"3","progress":0.5993756503642039,"total":124,"current":96}
+{"_e":"metro:bundling:progress","_t":1787869215451,"id":"3","progress":0.6996954234405285,"total":159,"current":133}
+{"_e":"metro:bundling:progress","_t":1787869215552,"id":"3","progress":0.8000808060402514,"total":199,"current":178}
+{"_e":"metro:bundling:progress","_t":1787869215658,"id":"3","progress":0.9153337647928995,"total":208,"current":199}
+{"_e":"metro:bundling:progress","_t":1787869215767,"id":"3","progress":0.999,"total":228,"current":228}
+{"_e":"metro:bundling:done","_t":1787869216038,"id":"3","total":228,"ms":1027.792835}
+{"_e":"metro:client_log","_t":1787869217257,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1787869217257,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1787869217257,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1787869217261,"level":"warn","data":["An error occurred in the <div> component.\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://react.dev/link/error-boundaries to learn more about error boundaries.\n"]}
+{"_e":"metro:client_log","_t":1787869217434,"level":"error","data":["[Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object.\n\nCheck the render method of `ListaCardapio`.]","\n\n\u001b[1mCode: react-dom-client.development.js\u001b[22m\n\u001b[0m \u001b[90m 5019 |\u001b[39m                 \u001b[32m\"\\n\\nCheck the render method of `\"\u001b[39m \u001b[33m+\u001b[39m fiberTag \u001b[33m+\u001b[39m \u001b[32m\"`.\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 5020 |\u001b[39m             fiberTag \u001b[33m=\u001b[39m \u001b[35m29\u001b[39m\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 5021 |\u001b[39m             pendingProps \u001b[33m=\u001b[39m \u001b[33mError\u001b[39m(\n \u001b[90m      |\u001b[39m                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 5022 |\u001b[39m               \u001b[32m\"Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: \"\u001b[39m \u001b[33m+\u001b[39m\n \u001b[90m 5023 |\u001b[39m                 (pendingProps \u001b[33m+\u001b[39m \u001b[32m\".\"\u001b[39m \u001b[33m+\u001b[39m resolvedType)\n \u001b[90m 5024 |\u001b[39m             )\u001b[33m;\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[2m\u001b[90m  createFiberFromTypeAndProps (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:5021:28\u0007node_modules/react-dom/cjs/react-dom-client.development.js:5021:28\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  createFiberFromElement (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:5035:14\u0007node_modules/react-dom/cjs/react-dom-client.development.js:5035:14\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  createChild (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:6338:26\u0007node_modules/react-dom/cjs/react-dom-client.development.js:6338:26\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  reconcileChildrenArray (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:6670:25\u0007node_modules/react-dom/cjs/react-dom-client.development.js:6670:25\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  reconcileChildFibersImpl (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:6993:30\u0007node_modules/react-dom/cjs/react-dom-client.development.js:6993:30\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  <anonymous> (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:7098:33\u0007node_modules/react-dom/cjs/react-dom-client.development.js:7098:33\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  reconcileChildren (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:9701:13\u0007node_modules/react-dom/cjs/react-dom-client.development.js:9701:13\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  beginWork (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:12049:13\u0007node_modules/react-dom/cjs/react-dom-client.development.js:12049:13\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  runWithFiberInDEV (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:871:30\u0007node_modules/react-dom/cjs/react-dom-client.development.js:871:30\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  performUnitOfWork (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:17641:22\u0007node_modules/react-dom/cjs/react-dom-client.development.js:17641:22\u001b]8;;\u0007)\u001b[39m\u001b[22m","\n\n\u001b[1mCode: index.js\u001b[22m\n\u001b[0m \u001b[90m 69 |\u001b[39m     \u001b[33m<\u001b[39m\u001b[33mView\u001b[39m style\u001b[33m=\u001b[39m{estilo\u001b[33m.\u001b[39mcontainer}\u001b[33m>\u001b[39m\n \u001b[90m 70 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33mScrollView\u001b[39m\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 71 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mHeader\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m    |\u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 72 |\u001b[39m\n \u001b[90m 73 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mView\u001b[39m style\u001b[33m=\u001b[39m{estilo\u001b[33m.\u001b[39mconteudo}\u001b[33m>\u001b[39m\n \u001b[90m 74 |\u001b[39m           {cardapio\u001b[33m.\u001b[39mmap((categoria\u001b[33m,\u001b[39m index) \u001b[33m=>\u001b[39m (\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  ListaCardapio (\u001b]8;;components/ListaCardapio/index.js:71:9\u0007components/ListaCardapio/index.js:71:9\u001b]8;;\u0007)\u001b[39m\n\u001b[90m  App (\u001b]8;;App.js:6:5\u0007App.js:6:5\u001b]8;;\u0007)\u001b[39m"]}
+{"_e":"root:init","_t":1787869241405,"format":"v0-jsonl","version":"57.0.13"}
+{"_e":"env:mode","_t":1787869241406,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1787869241408,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1787869241693,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1787869242026,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1787869242102,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM2/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1787869242234,"plugins":[]}
+{"_e":"metro:instantiate","_t":1787869244712,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1787869260917,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787869260918,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787869260924,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787869261024,"id":"1","progress":0.4850127551020408,"total":112,"current":78}
+{"_e":"metro:bundling:progress","_t":1787869261124,"id":"1","progress":0.7694675284702984,"total":171,"current":150}
+{"_e":"metro:bundling:done","_t":1787869261226,"id":"1","total":171,"ms":306.331988}
+{"_e":"metro:client_log","_t":1787869263227,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1787869263227,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1787869263227,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1787869263233,"level":"warn","data":["An error occurred in the <div> component.\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://react.dev/link/error-boundaries to learn more about error boundaries.\n"]}
+{"_e":"metro:client_log","_t":1787869263440,"level":"error","data":["[Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object.\n\nCheck the render method of `ListaCardapio`.]","\n\n\u001b[1mCode: react-dom-client.development.js\u001b[22m\n\u001b[0m \u001b[90m 5019 |\u001b[39m                 \u001b[32m\"\\n\\nCheck the render method of `\"\u001b[39m \u001b[33m+\u001b[39m fiberTag \u001b[33m+\u001b[39m \u001b[32m\"`.\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 5020 |\u001b[39m             fiberTag \u001b[33m=\u001b[39m \u001b[35m29\u001b[39m\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 5021 |\u001b[39m             pendingProps \u001b[33m=\u001b[39m \u001b[33mError\u001b[39m(\n \u001b[90m      |\u001b[39m                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 5022 |\u001b[39m               \u001b[32m\"Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: \"\u001b[39m \u001b[33m+\u001b[39m\n \u001b[90m 5023 |\u001b[39m                 (pendingProps \u001b[33m+\u001b[39m \u001b[32m\".\"\u001b[39m \u001b[33m+\u001b[39m resolvedType)\n \u001b[90m 5024 |\u001b[39m             )\u001b[33m;\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[2m\u001b[90m  createFiberFromTypeAndProps (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:5021:28\u0007node_modules/react-dom/cjs/react-dom-client.development.js:5021:28\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  createFiberFromElement (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:5035:14\u0007node_modules/react-dom/cjs/react-dom-client.development.js:5035:14\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  createChild (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:6338:26\u0007node_modules/react-dom/cjs/react-dom-client.development.js:6338:26\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  reconcileChildrenArray (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:6670:25\u0007node_modules/react-dom/cjs/react-dom-client.development.js:6670:25\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  reconcileChildFibersImpl (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:6993:30\u0007node_modules/react-dom/cjs/react-dom-client.development.js:6993:30\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  <anonymous> (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:7098:33\u0007node_modules/react-dom/cjs/react-dom-client.development.js:7098:33\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  reconcileChildren (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:9701:13\u0007node_modules/react-dom/cjs/react-dom-client.development.js:9701:13\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  beginWork (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:12049:13\u0007node_modules/react-dom/cjs/react-dom-client.development.js:12049:13\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  runWithFiberInDEV (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:871:30\u0007node_modules/react-dom/cjs/react-dom-client.development.js:871:30\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  performUnitOfWork (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:17641:22\u0007node_modules/react-dom/cjs/react-dom-client.development.js:17641:22\u001b]8;;\u0007)\u001b[39m\u001b[22m","\n\n\u001b[1mCode: index.js\u001b[22m\n\u001b[0m \u001b[90m 69 |\u001b[39m     \u001b[33m<\u001b[39m\u001b[33mView\u001b[39m style\u001b[33m=\u001b[39m{estilo\u001b[33m.\u001b[39mcontainer}\u001b[33m>\u001b[39m\n \u001b[90m 70 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33mScrollView\u001b[39m\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 71 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mHeader\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m    |\u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 72 |\u001b[39m\n \u001b[90m 73 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mView\u001b[39m style\u001b[33m=\u001b[39m{estilo\u001b[33m.\u001b[39mconteudo}\u001b[33m>\u001b[39m\n \u001b[90m 74 |\u001b[39m           {cardapio\u001b[33m.\u001b[39mmap((categoria\u001b[33m,\u001b[39m index) \u001b[33m=>\u001b[39m (\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  ListaCardapio (\u001b]8;;components/ListaCardapio/index.js:71:9\u0007components/ListaCardapio/index.js:71:9\u001b]8;;\u0007)\u001b[39m\n\u001b[90m  App (\u001b]8;;App.js:6:5\u0007App.js:6:5\u001b]8;;\u0007)\u001b[39m"]}
+{"_e":"metro:bundling:started","_t":1787869269620,"id":"5","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787869269620,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1787869269632,"id":"5","total":1,"ms":11.76014}
+{"_e":"metro:client_log","_t":1787869271243,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1787869271243,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1787869271243,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1787869271245,"level":"warn","data":["An error occurred in the <div> component.\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://react.dev/link/error-boundaries to learn more about error boundaries.\n"]}
+{"_e":"metro:client_log","_t":1787869271397,"level":"error","data":["[Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object.\n\nCheck the render method of `ListaCardapio`.]","\n\n\u001b[1mCode: react-dom-client.development.js\u001b[22m\n\u001b[0m \u001b[90m 5019 |\u001b[39m                 \u001b[32m\"\\n\\nCheck the render method of `\"\u001b[39m \u001b[33m+\u001b[39m fiberTag \u001b[33m+\u001b[39m \u001b[32m\"`.\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 5020 |\u001b[39m             fiberTag \u001b[33m=\u001b[39m \u001b[35m29\u001b[39m\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 5021 |\u001b[39m             pendingProps \u001b[33m=\u001b[39m \u001b[33mError\u001b[39m(\n \u001b[90m      |\u001b[39m                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 5022 |\u001b[39m               \u001b[32m\"Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: \"\u001b[39m \u001b[33m+\u001b[39m\n \u001b[90m 5023 |\u001b[39m                 (pendingProps \u001b[33m+\u001b[39m \u001b[32m\".\"\u001b[39m \u001b[33m+\u001b[39m resolvedType)\n \u001b[90m 5024 |\u001b[39m             )\u001b[33m;\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[2m\u001b[90m  createFiberFromTypeAndProps (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:5021:28\u0007node_modules/react-dom/cjs/react-dom-client.development.js:5021:28\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  createFiberFromElement (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:5035:14\u0007node_modules/react-dom/cjs/react-dom-client.development.js:5035:14\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  createChild (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:6338:26\u0007node_modules/react-dom/cjs/react-dom-client.development.js:6338:26\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  reconcileChildrenArray (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:6670:25\u0007node_modules/react-dom/cjs/react-dom-client.development.js:6670:25\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  reconcileChildFibersImpl (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:6993:30\u0007node_modules/react-dom/cjs/react-dom-client.development.js:6993:30\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  <anonymous> (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:7098:33\u0007node_modules/react-dom/cjs/react-dom-client.development.js:7098:33\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  reconcileChildren (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:9701:13\u0007node_modules/react-dom/cjs/react-dom-client.development.js:9701:13\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  beginWork (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:12049:13\u0007node_modules/react-dom/cjs/react-dom-client.development.js:12049:13\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  runWithFiberInDEV (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:871:30\u0007node_modules/react-dom/cjs/react-dom-client.development.js:871:30\u001b]8;;\u0007)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  performUnitOfWork (\u001b]8;;node_modules/react-dom/cjs/react-dom-client.development.js:17641:22\u0007node_modules/react-dom/cjs/react-dom-client.development.js:17641:22\u001b]8;;\u0007)\u001b[39m\u001b[22m","\n\n\u001b[1mCode: index.js\u001b[22m\n\u001b[0m \u001b[90m 69 |\u001b[39m     \u001b[33m<\u001b[39m\u001b[33mView\u001b[39m style\u001b[33m=\u001b[39m{estilo\u001b[33m.\u001b[39mcontainer}\u001b[33m>\u001b[39m\n \u001b[90m 70 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33mScrollView\u001b[39m\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 71 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mHeader\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m    |\u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 72 |\u001b[39m\n \u001b[90m 73 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mView\u001b[39m style\u001b[33m=\u001b[39m{estilo\u001b[33m.\u001b[39mconteudo}\u001b[33m>\u001b[39m\n \u001b[90m 74 |\u001b[39m           {cardapio\u001b[33m.\u001b[39mmap((categoria\u001b[33m,\u001b[39m index) \u001b[33m=>\u001b[39m (\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  ListaCardapio (\u001b]8;;components/ListaCardapio/index.js:71:9\u0007components/ListaCardapio/index.js:71:9\u001b]8;;\u0007)\u001b[39m\n\u001b[90m  App (\u001b]8;;App.js:6:5\u0007App.js:6:5\u001b]8;;\u0007)\u001b[39m"]}
+{"_e":"root:init","_t":1787869436363,"format":"v0-jsonl","version":"57.0.13"}
+{"_e":"env:mode","_t":1787869436364,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1787869436365,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1787869436529,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1787869436769,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1787869436864,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM2/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1787869436971,"plugins":[]}
+{"_e":"metro:instantiate","_t":1787869439745,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1787869442563,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787869442564,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787869442571,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787869442804,"id":"1","progress":0.2908723646004292,"total":89,"current":48}
+{"_e":"metro:bundling:progress","_t":1787869442919,"id":"1","progress":0.5847750865051903,"total":119,"current":91}
+{"_e":"metro:bundling:progress","_t":1787869443032,"id":"1","progress":0.8783808240664401,"total":223,"current":209}
+{"_e":"metro:bundling:done","_t":1787869443066,"id":"1","total":223,"ms":502.190169}
+{"_e":"metro:client_log","_t":1787869444544,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1787869444544,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1787869444545,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1787869618127,"format":"v0-jsonl","version":"57.0.13"}
+{"_e":"env:mode","_t":1787869618128,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1787869618130,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1787869618286,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1787869618527,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1787869618634,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PAM2/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1787869618796,"plugins":[]}
+{"_e":"metro:instantiate","_t":1787869621256,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1787869623815,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787869623816,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787869623824,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787869623921,"id":"1","progress":0.5784566554255108,"total":142,"current":108}
+{"_e":"metro:bundling:done","_t":1787869624027,"id":"1","total":142,"ms":211.265209}
+{"_e":"metro:client_log","_t":1787869625873,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1787869625874,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1787869625874,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
